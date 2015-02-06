@@ -1,2 +1,3 @@
 # asyncio
-Yet Another Async I/O Library
+Toy project to generalize and benchmark the async I/O library underlying
+my Sprinkler implementation.
