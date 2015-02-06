@@ -10,7 +10,7 @@
 #include <glog/logging.h>
 
 #include "dmalloc.h"
-#include "sprinkler_common.h"
+#include "common.h"
 
 #ifndef IOV_MAX
 #define IOV_MAX 1024
